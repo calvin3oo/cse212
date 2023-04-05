@@ -10,7 +10,7 @@ See the code here: [Queue Solved Example](./code/solved.py). Please examine this
 ## Unsolved Example
 Linked below is an unsolved example of a Queue. In this example, the Queue is implimented using an array. For some reason the Queue is not working correctly, and acting like a Stack. Please fix the code so that the Queue works correctly. 
 
-See the code here: [Queue Solved Example](./code/unsolved.py).
+See the code here: [Queue Unsolved Example](./code/unsolved.py).
 
 **Previous Page:** [Queue Time Complexity and Pros/Cons ](./timeComplexityProsCons.md)
 

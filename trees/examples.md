@@ -10,7 +10,7 @@ See the code here: [Tree Solved Example](./code/solved.py). Please examine this 
 ## Unsolved Example
 Below is an unsolved example of a tree where we need to impliment the delete method.
 
-See the code here: [Tree Solved Example](./code/unsolved.py).
+See the code here: [Tree Unsolved Example](./code/unsolved.py).
 
 look at the insert method for a hint of how to impliment the delete method.
 

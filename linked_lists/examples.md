@@ -10,7 +10,7 @@ See the code here: [Linked List Solved Example](./code/solved.py). Please examin
 ## Unsolved Example
 Linked below is code that won't run. Your job is to make the test code at the bottom work. You need to do this by implimenting the new 'delete' method in the linked list class.
 
-See the code here: [Linked List Solved Example](./code/unsolved.py).
+See the code here: [Linked List Unsolved Example](./code/unsolved.py).
 
 Once solved, notice how complicated it was to remove an item from the linked list. Linked lists are fundamental, but often only used in specific cases.
 
