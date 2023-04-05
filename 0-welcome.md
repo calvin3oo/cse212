@@ -9,8 +9,6 @@ This training is built to help you understand basic data structures in Python. U
 
 In this training, for each data structure, we will introduce the data structure, a real life example or layout to visualize the data structure, the use cases and efficiency, then an example of code using the data structure, and then a problem that can be solved using the newly-learned data structure.
 
-Here is an index of the training, it's reccomended to start from the top.
-
 ## Index and Links
 1. [Queues](queues/)
     - [Introduction](queues/introduction.md)
